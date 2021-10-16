@@ -1,0 +1,7 @@
+D:\PROJELER\gitWorkSpace\ConvertionExample\ConvertionExample\bin\Debug\ConvertionExample.exe.config
+D:\PROJELER\gitWorkSpace\ConvertionExample\ConvertionExample\bin\Debug\ConvertionExample.exe
+D:\PROJELER\gitWorkSpace\ConvertionExample\ConvertionExample\bin\Debug\ConvertionExample.pdb
+D:\PROJELER\gitWorkSpace\ConvertionExample\ConvertionExample\obj\Debug\ConvertionExample.csproj.AssemblyReference.cache
+D:\PROJELER\gitWorkSpace\ConvertionExample\ConvertionExample\obj\Debug\ConvertionExample.csproj.CoreCompileInputs.cache
+D:\PROJELER\gitWorkSpace\ConvertionExample\ConvertionExample\obj\Debug\ConvertionExample.exe
+D:\PROJELER\gitWorkSpace\ConvertionExample\ConvertionExample\obj\Debug\ConvertionExample.pdb

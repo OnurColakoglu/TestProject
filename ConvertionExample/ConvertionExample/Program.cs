@@ -10,7 +10,13 @@ namespace ConvertionExample
     {
         static void Main(string[] args)
         {
-            
+            //ekrandan kullacıdan sayı alıp sayının karesini yazan prog.
+            Console.Write("Lütfen bir sayı giriniz");
+            int sayi = int.Parse(Console.ReadLine());
+            int sonuc = sayi * sayi;
+            Console.WriteLine("Sonuç=>" + sonuc);
+            Console.ReadKey();
+
         }
     }
 }
