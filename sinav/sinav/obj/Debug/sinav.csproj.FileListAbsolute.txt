@@ -1,0 +1,10 @@
+D:\PROJELER\gitWorkSpace\sinav\sinav\bin\Debug\sinav.exe.config
+D:\PROJELER\gitWorkSpace\sinav\sinav\bin\Debug\sinav.exe
+D:\PROJELER\gitWorkSpace\sinav\sinav\bin\Debug\sinav.pdb
+D:\PROJELER\gitWorkSpace\sinav\sinav\obj\Debug\sinav.csproj.AssemblyReference.cache
+D:\PROJELER\gitWorkSpace\sinav\sinav\obj\Debug\sinav.Form1.resources
+D:\PROJELER\gitWorkSpace\sinav\sinav\obj\Debug\sinav.Properties.Resources.resources
+D:\PROJELER\gitWorkSpace\sinav\sinav\obj\Debug\sinav.csproj.GenerateResource.cache
+D:\PROJELER\gitWorkSpace\sinav\sinav\obj\Debug\sinav.csproj.CoreCompileInputs.cache
+D:\PROJELER\gitWorkSpace\sinav\sinav\obj\Debug\sinav.exe
+D:\PROJELER\gitWorkSpace\sinav\sinav\obj\Debug\sinav.pdb
