@@ -71,7 +71,7 @@ namespace sinav
 
             }
 
-            decimal tutar = ((fiyatlarKahve[cmbKahve.SelectedIndex] * nmbKahve.Value) + (fiyatlarSicak[cmbSicak.SelectedIndex] * nmbSicak.Value) + (fiyatlarSoguk[cmbSoguk.SelectedIndex] * nmbSoguk.Value))*;
+            decimal tutar = ((fiyatlarKahve[cmbKahve.SelectedIndex] * nmbKahve.Value) + (fiyatlarSicak[cmbSicak.SelectedIndex] * nmbSicak.Value) + (fiyatlarSoguk[cmbSoguk.SelectedIndex] * nmbSoguk.Value));
 
 
 
